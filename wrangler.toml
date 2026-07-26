@@ -1,0 +1,16 @@
+name = "matherinth-auth-worker"
+main = "script.js"
+compatibility_date = "2026-05-26"
+
+[[kv_namespaces]]
+binding = "SESSIONS"
+id = "e92884bb49e2451b8e7cf3d1bc949a8b"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "auth_db"
+database_id = "dca62920-592e-4e43-a61b-d6ff9ce8bbfd"
+
+[vars]
+FRONTEND_ORIGIN = "https://matherinth.github.io"
+WORKER_ORIGIN = "https://matherinth-auth.19bf0247fdedcb764e50962aa39b0285.workers.dev"
