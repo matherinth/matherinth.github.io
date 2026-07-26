@@ -13,4 +13,4 @@ database_id = "dca62920-592e-4e43-a61b-d6ff9ce8bbfd"
 
 [vars]
 FRONTEND_ORIGIN = "https://matherinth.github.io"
-WORKER_ORIGIN = "https://matherinth-auth.19bf0247fdedcb764e50962aa39b0285.workers.dev"
+WORKER_ORIGIN = "https://matherinth-auth-worker.matherinth.workers.dev"
