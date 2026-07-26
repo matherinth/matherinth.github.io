@@ -1,5 +1,5 @@
 name = "matherinth-auth-worker"
-main = "script.js"
+main = "worker.js"
 compatibility_date = "2026-05-26"
 
 [[kv_namespaces]]
